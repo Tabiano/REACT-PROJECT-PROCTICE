@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 123,
+            "name": "Kopiko black",
+            "price": "14",
+            "image": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/cache/d166c7ea81ddc4172de536322110c911/k/o/kopiko-black-twinpack-60g_1.jpg",
+            "description": "This is a description of Kopiko black."
+        },
+        {
+            "id": 131,
+            "name": "Kopiko brown",
+            "price": "15",
+            "image": "https://biggrocer.com.ph/wp-content/uploads/2021/02/1719-tile-1.jpg",
+            "description": "This is a description of Kopiko brown."
+        },
+        {
+            "id": 132,
+            "name": "Kopiko blanca",
+            "price": "14",
+            "image": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/k/o/kopiko-blanca-twin-pack-58g_2.jpg",
+            "description": "This is a description of Kopiko dadsdsdsdsdsdsdssssssssss."
+        },
+        {
+            "id": 133,
+            "name": "Kopiko cappuccino",
+            "price": "20",
+            "image": "https://ever-supermarket2.myshopify.com/cdn/shop/products/100000062025-Kopiko-Cappuccino-Coffee-Mix-Hanger-10x25g-210202_a84e85d9-8894-4a8a-bff6-d1101f6db687_1200x1200.jpg?v=1678857568",
+            "description": "This is a sasasasasasasas of Kopiko black."
+        },
+        {
+            "id": 134,
+            "name": "Kopiko ice water",
+            "price": "100",
+            "image": "https://imartgrocersph.com/wp-content/uploads/2020/09/Kopiko-Iced-Brown-Coffee-240mL.jpg",
+            "description": "sasasasasasaasa is a description of Kopiko black."
+        },
+        {
+            "id": 135,
+            "name": "Kopiko stick",
+            "price": "4",
+            "image": "https://candybar.snackcrate.com/wp-content/uploads/2023/07/Thailand_KopikoCoffeeCandy_482x482.png",
+            "description": "This is a description of sasasadjajfaewfjjjjeofjd;ljf;ls0dl;f;0oawklk;dsl0cxc'ajdsjdlsjljsdj black."
+        }
+    ]
+}
